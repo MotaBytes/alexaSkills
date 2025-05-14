@@ -20,17 +20,17 @@ Mejorar la interacción de la aplicación mediante el uso de intents personaliza
 ##### Intents Agregados:
 ConocemeIntent: Contiene todas las preguntas creadas
 ##### Utterances Implementadas:
-cuál es tu nombre
-qué carrera estudias
-cuál es tu color favorito
+cuál es tu nombre <br>
+qué carrera estudias <br>
+cuál es tu color favorito <br>
 cuál es tu grupo o cantante favorito
 
 ### Actividades Completadas:
 
-Creación y configuración de los nuevos intents: <strong>Realizado</strong>
-Incorporación de utterances correspondientes: <strong>Realizado</strong>
-Programación de respuestas estáticas para cada intent: <strong>Realizado</strong>
-Despliegue de la aplicación: <strong>Realizado</strong>
-Pruebas funcionales para verificar el correcto reconocimiento y respuesta de los intents: <strong>Realizado</strong>
-Descarga del código fuente: <strong>Realizado</strong>
+Creación y configuración de los nuevos intents: <strong>Realizado</strong> <br>
+Incorporación de utterances correspondientes: <strong>Realizado</strong> <br>
+Programación de respuestas estáticas para cada intent: <strong>Realizado</strong> <br>
+Despliegue de la aplicación: <strong>Realizado</strong> <br>
+Pruebas funcionales para verificar el correcto reconocimiento y respuesta de los intents: <strong>Realizado</strong> <br>
+Descarga del código fuente: <strong>Realizado</strong> <br>
 Publicación del proyecto en un repositorio de GitHub: <strong>Realizado</strong>
