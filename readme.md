@@ -34,3 +34,6 @@ Despliegue de la aplicación: <strong>Realizado</strong> <br>
 Pruebas funcionales para verificar el correcto reconocimiento y respuesta de los intents: <strong>Realizado</strong> <br>
 Descarga del código fuente: <strong>Realizado</strong> <br>
 Publicación del proyecto en un repositorio de GitHub: <strong>Realizado</strong>
+
+<img src="./imgs/testeo.png">
+<img src="./imgs/preguntaaaaas.png">
